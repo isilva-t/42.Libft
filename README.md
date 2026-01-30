@@ -1,6 +1,6 @@
 # Libft, My Very First C Library and programming toolbox!
 
-![ToolBox](https://raw.githubusercontent.com/isilva-t/42.Mile.1_tools/main/01_libft/assets/toolbox.jpg)
+![ToolBox](https://raw.githubusercontent.com/isilva-t/42.libft/main/assets/toolbox.jpg)
 
 ## About
 
